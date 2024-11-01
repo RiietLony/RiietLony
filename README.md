@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**RiietLony/RiietLony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Riiet!  <a href="(https://www.linkedin.com/in/riiet-lony-951a9716a/)/">
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Information Technology and Information security Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Azure Cloud Project </b>
+  - (https://github.com/RiietLony/Azure-SocProject)
+- <b>Microsoft Active Directory in Azure</b>
+  - (https://github.com/RiietLony/Azure-SocProject)]
+- <b>Traffic Analysis With Wireshar</b>
+  -  (https://github.com/RiietLony/Traffic-Analysis)]
+
+

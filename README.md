@@ -7,7 +7,7 @@
   - (https://github.com/RiietLony/Azure-SocProject)
 - <b>Microsoft Active Directory in Azure</b>
   - (https://github.com/RiietLony/ActiveDirectory))]
-- <b>Traffic Analysis With Wireshar</b>
+- <b>Traffic Analysis With Wireshark</b>
   -  (https://github.com/RiietLony/Traffic-Analysis)]
 
 

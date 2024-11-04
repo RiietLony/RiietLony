@@ -15,7 +15,7 @@
      - (https://github.com/RiietLony/WebAppenetrationTesting)
 - <b>Using Nmap and Metasploit to identify and Exploit Vulnerabilties</b>
      - (https://github.com/RiietLony/NMAPHomeNetworkPenTest)
--  <b>Using Splunk to analyze DNS records from </b>
+-  <b>Using Splunk to analyze DNS records  </b>
      - (https://github.com/RiietLony/Splunk)
 
 

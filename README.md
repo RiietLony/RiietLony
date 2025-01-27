@@ -19,7 +19,8 @@
      - (https://github.com/RiietLony/Splunk)
 - <b> Completing a Vulnerability Assessment Using Nessus  </b>
      - (https://github.com/RiietLony/Vulnerability-Management)
-
+- <b> Email Phishing Analysis </b>
+     - (https://github.com/RiietLony/EmailPhishingAnalysis)
 
 
   

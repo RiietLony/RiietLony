@@ -9,11 +9,11 @@
   - (https://github.com/RiietLony/ActiveDirectory)
 - <b>Traffic Analysis With Wireshark</b>
   -  (https://github.com/RiietLony/Traffic-Analysis)
-- <b>Help Desk enviorment w/ configuration + tickets using osTicket Support System</b>
+- <b>Help Desk environment w/ configuration + tickets using osTicket Support System</b>
   - (https://github.com/RiietLony/oSticketSupportSystem)
-- <b>Exploiting Vulnerabilities using BurpSuite on a vunerable Web Application</b>
+- <b>Exploiting Vulnerabilities using BurpSuite on a vulnerable Web Application</b>
      - (https://github.com/RiietLony/WebAppenetrationTesting)
-- <b>Using Nmap and Metasploit to identify and Exploit Vulnerabilties</b>
+- <b>Using Nmap and Metasploit to Identify and Exploit Vulnerabilties</b>
      - (https://github.com/RiietLony/NMAPHomeNetworkPenTest)
 -  <b>Using Splunk to analyze DNS records  </b>
      - (https://github.com/RiietLony/Splunk)
@@ -21,7 +21,8 @@
      - (https://github.com/RiietLony/Vulnerability-Management)
 - <b> Email Phishing Analysis </b>
      - (https://github.com/RiietLony/EmailPhishingAnalysis)
-
+ - <b> Scripting and Automating Workflows using Bash in Ubuntu Linux
+      - (https://github.com/RiietLony/Scripting-and-Automation)
 
   
 
